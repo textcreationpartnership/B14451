@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Foure letters one from the Duke of Bouillon to the French King. Dated in Feb. 1619. Another from the French King to the Duke of Espernon. Dated the 11. of Ian. 1619. Two other from the Duke of Espernon to the French King, the one dated the 17. of Ian the other the 7. of Feb. 1619.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1619</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14451</idno>
+            <idno type="STC">STC 15528</idno>
+            <idno type="STC">ESTC S100260</idno>
+            <idno type="EEBO-CITATION">99836106</idno>
+            <idno type="PROQUEST">99836106</idno>
+            <idno type="VID">176323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1315:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Foure letters one from the Duke of Bouillon to the French King. Dated in Feb. 1619. Another from the French King to the Duke of Espernon. Dated the 11. of Ian. 1619. Two other from the Duke of Espernon to the French King, the one dated the 17. of Ian the other the 7. of Feb. 1619.</title>
+                  <author>Bouillon, Henri de la Tour-d'Auvergne, Duc de, 1555-1623. aut</author>
+                  <author>Louis XIII, King of France, 1601-1643. aut</author>
+                  <author>Epernon, Jean-Louis de Nogaret de La Valette, duc d', 1554-1642. aut</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Field for Robert Mylbourne, and are to be sold at the great south dore of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1619.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Stained.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  17 century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176323:1" rendition="simple:additions"/>
+            <p>FOVRE LETTERS: One from the Duke of Bouillon <hi>to the French King. Dated in Feb.</hi> 1619.</p>
+            <p>Another from the French King to the Duke of <hi>Eſpernon. Dated the</hi> 11. <hi>of Ian.</hi> 1619.</p>
+            <p>Two other from the Duke of Eſpernon to the <hi>French King; the one dated the</hi> 17. <hi>of Ian. the other</hi> the 7. of Feb. 1619.</p>
+            <figure>
+               <q xml:lang="lat">ANCHORA SPEI</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by RICHARD FIELD for <hi>Robert Mylbourne,</hi> and are to be ſold at the great South dore of Paules. 1619.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:176323:2"/>
+            <pb n="1" facs="tcp:176323:2"/>
+            <head>A letter from the Duke of Bouillon to the French King.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Haue receiued with the honour and reſpect I ought to beare to whatſoe<g ref="char:EOLhyphen"/>uer cometh from your Maieſtie, the meſſage wherewith it hath bene plea<g ref="char:EOLhyphen"/>ſed to charge the Lord <hi>de la Chainee</hi> towards me, with the letter which he hath deliuered me, dated the 26. of Febr. In the which mention is made of another ſent two dayes before, which did de<g ref="char:EOLhyphen"/>clare vnto me the vnexpected depart of the Queene your Maieſties mother from <hi>Bleis,</hi> which I haue not receiued; neither had I learned theſe troubleſome newes before the coming of the ſaid Lord <hi>de la Chainee,</hi> who being endued with many good quali<g ref="char:EOLhyphen"/>ties, is among others an old faithfull affectionate ſer<g ref="char:EOLhyphen"/>uant of your Maieſtie. By the election it hath plea<g ref="char:EOLhyphen"/>ſed your Maieſtie to make of him, your Maieſty doth teſtifie and aſſure me of its good will and affection, which is a treaſure I deſire to poſſeſſe aboue any other riches. Your Maieſtie doth command me to giue him my aduice vpon the occaſions which are offered. I cannot in obeying it be blamed as preſump<g ref="char:EOLhyphen"/>tuous, but rather as ignorant, for the ſmall inſight I haue in affaires. My loue and the fidelitie I owe to your ſeruice directing my pen, ſhall with your Maie<g ref="char:EOLhyphen"/>ſties
+<pb n="2" facs="tcp:176323:3"/>good pleaſure ſupply what may be defectuous. In the Queene mothers depart, all true Frenchmen receiue at firſt this griefe, to ſee an alteration in the naturall loue and mutuall beneuolence, which (as it ſhould ſeeme) ought to be perpetuall betweene your Maieſties. But as it doth cauſe a ſudden ſorrow, ſo doth it inſtantly mitigate it with an aſſured hope, that by Gods helpe and natures aſſiſtance, your Maieſties cannot remaine diſunited in loue, you Sir being a good King, and a good ſonne; ſhe not onely a louing mother, but alſo a moſt humble ſubiect. Your Maie<g ref="char:EOLhyphen"/>ſtie may haue bene informed by the letter which ſhe hath written vnto you from <hi>Lorches,</hi> that two paſſions (as ſhe doth tell you) haue moued her to go out of <hi>Blois</hi> not without danger; The firſt, the no<g ref="char:EOLhyphen"/>tice which ſhe hath of many diſorders that concerne your Maieſtie; the other, of her life; leauing and ſub<g ref="char:EOLhyphen"/>mitting to your choiſe and good liking the meanes ſhe ought to take to let you vnderſtand them. By this meanes your Maieſtie ſhall without conſtraint reſt free of her actions, to the end that taking the profita<g ref="char:EOLhyphen"/>ble aduices for your affections, they may reiect thoſe that are leſſe conuenient. <hi>France</hi> aboue all other Realmes hath bene obnoxious to like ſudden acci<g ref="char:EOLhyphen"/>dents, or rather greater; but alſo better then any where elſe, haue they bene helped and cured without force of armes, which are alwayes hurtfull, eſpecially in this State, which I may ſay hath now leſſe neede of them then at any other time. So (Sir) by a royall, iuſt, and mild power, your Maieſtie may reape ſome pro<g ref="char:EOLhyphen"/>fite from this, in iudging what is wanting to a ſure tranquillitie; in the which your authoritie may be re<g ref="char:EOLhyphen"/>ſpected,
+<pb n="3" facs="tcp:176323:3"/>the lawes of the kingdome maintained, your Edicts of pacifications kept and obſerued, the infra<g ref="char:EOLhyphen"/>ctions repaired, the difference of your ſubiects taken away, and preferments and dignities i<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rted vnto ſuch as your Maieſtie (both for their birth and merit) ſhall eſteeme worthy to be beſtowed vpon. So (Sir) ſhall you enioy an immortall glory within your king<g ref="char:EOLhyphen"/>dome, and an aſſured felicity. And I hold that your Maieſtie cannot be counſelled to make vſe of armes but by thoſe that aime at a diſſipation, and to equall their dutie in the equalitie which they hope to ob<g ref="char:EOLhyphen"/>taine in weapons: which intention is moſt deteſtable, and ſhall haue heauen for iudge, and on earth due pu<g ref="char:EOLhyphen"/>niſhment; and likewiſe thoſe that proffer their ſeruice that they may haue the meanes to be diſloyall, of whom there is great number. Sir, giue eare to your mother by faithfull and ſufficient perſons. Hearken to the common deſires of your State, and appoint what ſhall be moſt conuenient for it. Thus doing, if there be any who vnder a faire ſhew maske any falſe intentions, they will be manifeſted, and will ſerue to demonſtrate your power, and your iuſtice in their pu<g ref="char:EOLhyphen"/>niſhment: in the execution whereof you ſhall be aided by your good ſubiects, according as their duty binds them. As for my ſelfe, (to whom there re<g ref="char:EOLhyphen"/>maineth but a little life, and leſſe health) I conſecrate whatſoeuer belongeth to me and mine, without any excuſe, to the ſeruice and eſtabliſhing of your autho<g ref="char:EOLhyphen"/>ritie.</p>
+            <closer>
+               <dateline>From Sedan. <date>Feb. 1619.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:176323:4"/>
+            <head>A Let<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſent from the French King to the Duke of Eſpernon.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ouſin, I will deferre my anſwer to the Letters which the Lord of <hi>Fauieres</hi> hath deliuered vnto me from you, as alſo to thoſe I haue receiued before, vntill I haue heard him more particu<g ref="char:EOLhyphen"/>larly, and be informed how he hath executed the commiſſion which I had giuen him. But foraſmuch as in them you make no anſwer to the command I ſent you, not to ſtirre from <hi>Mets;</hi> and that by the diſ<g ref="char:EOLhyphen"/>courſe you held to the ſaid <hi>Fauieres</hi> vpon this ſub<g ref="char:EOLhyphen"/>iect, it ſeemeth that your mind is rather not to ſtay there, then to conforme it ſelfe to my will; I there<g ref="char:EOLhyphen"/>fore expreſly ſend this meſſenger vnto you with theſe preſents, to aduiſe you, that hauing very lately recei<g ref="char:EOLhyphen"/>ued newes from Germanie, which not onely con<g ref="char:EOLhyphen"/>firme the precedents, but witneſſe the broyles to in<g ref="char:EOLhyphen"/>creaſe, and that it is to be feared that warres fire alrea<g ref="char:EOLhyphen"/>die kindled is not ſo quickly nor ſo eaſily quenched, but diſperſeth it ſelfe throughout the greateſt part of the countrie. I iudge your preſence neceſſary in the Citie of <hi>Mets,</hi> and charge you againe, and that ex<g ref="char:EOLhyphen"/>preſly, not to leaue it vntill you receiue farther dire<g ref="char:EOLhyphen"/>ctions from me; which you ſhall haue (as I haue pro<g ref="char:EOLhyphen"/>miſed you) ſo ſoone as the affaires will permit you to remoue from the Frontiers of my king dome; aſſu<g ref="char:EOLhyphen"/>ring my ſelfe that in the meane while you will per<g ref="char:EOLhyphen"/>forme
+<pb n="5" facs="tcp:176323:4"/>that ſeruice I deſire, and vnto the which the dutie of your charge doth oblige you. I giue you no other commiſſion at this preſent, but onely that you ſuffer not the <hi>Arch-dukes</hi> Commiſſaries, or any other whatſoeuer, to carry away any ſaltpeeter; and looke that my commandements in that and all other things be duly obſerued.</p>
+            <closer>
+               <salute>I beſeech the Almightie,Couſin, to haue you in his keeping.</salute> 
+               <dateline>From Paris <date>this 11. Ian. 1691.</date>
+               </dateline> 
+               <signed>Signed
+<list>
+                     <item>Lewis</item>
+                     <item>And Lower Ratier.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:176323:5"/>
+            <head>The firſt letter of the Duke of Eſper<g ref="char:EOLhyphen"/>mon to the King.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Haue learned by the letters where<g ref="char:EOLhyphen"/>with it hath pleaſed your Maieſtie to honour me, written the 20 of the laſt moneth, and the 11 of this preſent, that vpon the newes you haue receiued of the continuing of the warres in Germanie, you iudge it fit for the profit of your ſeruice that I ſhould not yet ſtirre from the Frontires of this kingdome. As to that (Sir) I haue nothing to anſwer to your Maie<g ref="char:EOLhyphen"/>ſtie, but that hauing alwayes abſolutely depended on your commandements, and propounded to my ſelfe in all my actions (for onely aime) the good of your State, in the ſmalleſt intereſt that ſhall regard it with<g ref="char:EOLhyphen"/>in the limits of my charge; which is not onely capa<g ref="char:EOLhyphen"/>ble to ſtay me here, but doth oblige me at all times and in all places whatſoeuer, to eſteeme my life no<g ref="char:EOLhyphen"/>thing, ſo I may be ſo happie as to ſpend it for the ſer<g ref="char:EOLhyphen"/>uice of your Maieſtie. But at this day (Sir) the peace and tranquillitie of <hi>France</hi> is growne ſo generall, your State ſo powerfully eſtabliſhed, and your friend<g ref="char:EOLhyphen"/>ſhip ſo deare to all your neighbours; that as there is nothing within this Realme but ſtoopes to your au<g ref="char:EOLhyphen"/>thoritie, ſo out of it there is no Prince but doth re<g ref="char:EOLhyphen"/>ſpect your power, and maintaine himſelfe by your
+<pb n="7" facs="tcp:176323:5"/>iuſtice. As for the warres in <hi>Bohemia,</hi> to the which hitherto it hath not bene poſſible to giue remedie (beſides that meanes are now intended for the en<g ref="char:EOLhyphen"/>ding of them in the friendlieſt manner that may be, and that there is no condition how vnprofitable ſoe<g ref="char:EOLhyphen"/>uer, but the Emperour will accept rather then to ha<g ref="char:EOLhyphen"/>zard the little authoritie that yet remaineth vnto him) the danger (fained by ſuch as make things far greater then they are,) is ſo remote from this Fron<g ref="char:EOLhyphen"/>tire, that the feare which we might haue thereof ſhould be without ground; ſeeing moreouer that not any as yet are come ouer on this ſide the <hi>Rhene,</hi> and that the ancient friends &amp; allies to this Crowne (who are the neareſt to theſe broyles) expect the iſſue with<g ref="char:EOLhyphen"/>out any ſtirring, vp or taking either the one or the o<g ref="char:EOLhyphen"/>thers part. Theſe conſiderations (Sir) require not my ſtaying in this country, where all things are in ſo good a being, as almoſt of themſelues they may ſub<g ref="char:EOLhyphen"/>ſiſt and be maintained: and the abode that my ſonne <hi>de la Valette</hi> ſhall make here in my abſence (being ſuf<g ref="char:EOLhyphen"/>ficient to giue order to whatſoeuer ſhall concerne the good of your affaires:) I truſt your Maieſtie will with equitie regard the neceſſitie of mine owne par<g ref="char:EOLhyphen"/>ticulars, and be pleaſed to let me returne to my houſe, from the which I haue bene abſent aboue theſe 15 moneths. I craue but the libertie which you denie not to the leaſt of thoſe whoſe greateſt honour is to be vnder your gouernment. I make no doubt (Sir) but that you will be pleaſed with the deſire I haue to per<g ref="char:EOLhyphen"/>forme this iourney; and aſſure my ſelfe that you will take the paines to conſider, that ſince your coming to the Crowne, hauing indebted my ſelfe aboue an
+<pb n="8" facs="tcp:176323:6"/>100000 crownes for your ſeruice, for the which I pay intereſts at <hi>Paris:</hi> &amp; hauing not ſince theſe two yeares receiued of your liberality any other gratification but the bare wages of a Colonel, after the rate of 10 mo<g ref="char:EOLhyphen"/>neths for a yeare, it is not poſſible I ſhould hold out in the great &amp; neceſſary expences which I am bound to make here, as well for the maintaining of the dignity of my office, as for the performing of your Maieſties ſeruice with more eminence. Furthermore (Sir) ſince my enemies do daily endeuour to infuſe into your Maieſties heart a miſtruſt of my pureſt intentions, and that I am ſo vnhappie, that euen waxen old in the ſeruice of three great Kings, I ſhould yet haue much adoe to defend a ſo conſtant and approued fidelity from calumnies; I muſt (and with griefe I muſt) ſpeake it, that I haue remained in my dutie when as rewards were promiſed to vnfaithfulneſſe; that I haue maintained your authority when it was abuſed of ſome, and diſpiſed of others. It is to wrong me much to thinke that at theſe yeares I would begin to proue diſloyall, and that my priuate paſſions ſhould be dearer to me then my fidelity to your ſeruice. In this caſe (Sir) I will freely anow, that I haue no cauſe to complaine but of my bad fortune; being moſt cer<g ref="char:EOLhyphen"/>tain that it is not where your Scepter-doth beare ſway that vertue is ſuſpected, and a good reputation odi<g ref="char:EOLhyphen"/>ous; and that your Maieſty is too iuſt to put no diffe<g ref="char:EOLhyphen"/>rence betweene the oppreſſed innocent and the guil<g ref="char:EOLhyphen"/>tie. For indeed (Sir) if then, when you were not as yet free, the gentleneſſe of your nature hath bene ſuch, that you haue alwayes withſtood violent counſels, and not ſuffered your authoritie to be employed to
+<pb n="9" facs="tcp:176323:6"/>the ouerthrow of your ſubiects, there is no likely<g ref="char:EOLhyphen"/>hood (now that you onely depend of your ſelfe, and that your mild inclination is not foſtered by any with violent paſſions) that in his hoarie age you would oppreſſe one of your beſt ſeruants, and ancient offi<g ref="char:EOLhyphen"/>cers to your Crowne; or denie to his yeares the reſt which nature doth require of you. I thinke, Sir, I may preſume to deſerue that for a recompence of my long and faithfull ſeruice, and your Maieſtie may grant it me (as humbly I do beſeech it) without any diſparagement to your State: for as I neuer expected other profit from my actions but the pleaſure I re<g ref="char:EOLhyphen"/>ceiue to haue done them, ſo will I thinke my ſelfe ſuf<g ref="char:EOLhyphen"/>ficiently happie by the teſtimonie which my conſci<g ref="char:EOLhyphen"/>ence all my life time will yeeld me, that I haue truly bene, and intend to remaine vnto my end,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your moſt humble, moſt dutifull, faithfull, and louing ſubiect and ſeruant, <hi>Eſpernon.</hi>
+               </signed>
+               <dateline>From Mets <date>this 17 of Ian. 1619.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="10" facs="tcp:176323:7"/>
+            <head>Another Letter of the Duke of Eſpernon to the King.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Auing heretofore repreſented vnto your Maieſtie with what patience I haue expected in my gouernment of <hi>Mets</hi> the occaſions to do you ſeruice, and hoping that hauing put to your co<g ref="char:cmbAbbrStroke">̄</g>ſideration the neceſſity of my buſineſſe, you would haue bene fully ſatisfied with my reſolution ſo long ago concluded: I haue thought that I could not be blamed of your Maieſtie, nor of any other, if at theſe yeares, hauing giuen the beſt part of my life to the publike good, I did deſire at leaſt to go ſpend the remnant of it with ſome eaſe, and be partaker of the peaceable reſt you haue ſtored vp for your king<g ref="char:EOLhyphen"/>dome. Neuertheleſſe, Sir, the leaſt of your comman<g ref="char:EOLhyphen"/>dements is ſo deare vnto me, and I am ſo religious in all the circumſtances of my duty, that I had not vn<g ref="char:EOLhyphen"/>dertooke my iourney, if the occaſions of the ſtay<g ref="char:EOLhyphen"/>ing thereof had not bene taken away, and the difficul<g ref="char:EOLhyphen"/>ties of the warres in <hi>Bohemia</hi> altogether finiſhed. But hauing learned by certaine aduiſe which the Lord Duke of <hi>Lorraine</hi> hath receiued from that countrie, that the Differents are vpon tearmes of agreement, to the furtherance whereof ſhall be proceeded by the depoſition of armes on both ſides: I thought that the
+<pb n="11" facs="tcp:176323:7"/>profit of your ſeruice did not require my abode any longer in a place which in time of peace is not in any danger, and will increaſe by the decay of the Empire if the warres continue. That if there be any part of this countrie leſſe participant then other of the pub<g ref="char:EOLhyphen"/>lique tranquillitie, and needing more carefully to be conſerued, I am ſure that your Maieſtie will iudge that it is that Prouince into the which I am going; which ſince it dependeth of my charge, it is my duty to be carefull in whatſoeuer doth concerne the good of it, and not to giue way throught it to the preiudice of your authoritie. So, Sir, that if at this time I will not omit the occaſions, your Maieſtie ſhall be pleaſed to do me the honour to conſider, that I do not there<g ref="char:EOLhyphen"/>in diſobey your commandements, but that contra<g ref="char:EOLhyphen"/>riwiſe I expound them according to the right ſence, and that I giue them the beſt interpretation, ſince it is that which is the moſt profitable for your ſeruice. For indeed, Sir, euery one doth know, that as the chiefeſt law of your Realme is the maintaining of your authoritie, ſo your moſt expreſſe and moſt im<g ref="char:EOLhyphen"/>portant commandement is the good ſucceſſe of your affaires; which being abſolutely true, what likelihood ſhould there be, that (being in me to conſerue vnto your Maieſtie the affections of a Prouince diſunited; and to retaine by my preſence thoſe ſpirits that might affect a changement, if there were no body to con<g ref="char:EOLhyphen"/>firme them in their dutie) I ſhould propound to my ſelfe (for the hindering of ſo neceſſary a voyage,) ſuch weake conſiderations as the warres of <hi>Bohemia.</hi> I am not of that age (Sir) that will permit me to ſeeke after vaine glorie; yet neuertheleſſe I do not thinke
+<pb n="12" facs="tcp:176323:8"/>that your Maieſtie eſteemeth of me ſo little, as to im<g ref="char:EOLhyphen"/>ploy me in no other ſeruice then for the ſurer dire<g ref="char:EOLhyphen"/>cting of your pacquets from <hi>Germanie:</hi> I do not hold my ſelfe yet ſo vnprofitable that I ſhould onely be thought fit to performe to you and to your State ſer<g ref="char:EOLhyphen"/>uice of ſo little conſequence. Sir, this is that which I humbly requeſt your Maieſtie to iudge of my faults; and in the meane time to do me that honour to be<g ref="char:EOLhyphen"/>leeue, that whereſoeuer I be, and what bad vſage ſoe<g ref="char:EOLhyphen"/>uer I haue had theſe 20 moneths, no condition in the world, and neuer ſo profitable ſhall corrupt me, nor any neceſſity how great ſoeuer hinder me to remaine with the ſame affection, with which I haue al<g ref="char:EOLhyphen"/>wayes bene,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your moſt humble and moſt obedient ſubiect, moſt faithfull and louing ſeruant, <hi>I. Lewes de le Valette.</hi>
+               </signed>
+               <dateline>From the Bridge of Vichy <date>this 7. of Feb. 1619.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:176323:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
